@@ -1,5 +1,4 @@
-
-![Project Logo](./logo.png)
+<img src="./logo.png" width="300" alt="Project Logo">
 # Google Scholar Citation Checker & Notifier
 
 This Python script automatically checks the total citation count of a specified author on Google Scholar every hour and sends an email notification only when the citation count has increased since the last check.
